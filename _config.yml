@@ -1,0 +1,5 @@
+title: qCrit GH Pages Placeholder
+
+# Build settings
+plugins:
+  - jekyll-redirect-from
