@@ -1,0 +1,6 @@
+title: DHBME Redirect
+description: Redirect for making sure capitalization does not affect GitHub pages.
+
+# Build settings
+plugins:
+  - jekyll-redirect-from

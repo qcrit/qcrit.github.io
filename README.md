@@ -1,2 +1,1 @@
-# qcrit.github.io
-Placeholder GH Pages site
+Redirect for making sure capitalization does not affect GitHub pages.
